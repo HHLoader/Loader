@@ -1,6 +1,3 @@
-discord.py==2.3.2
-flask==3.0.0
-
 import discord
 from discord.ext import commands
 import asyncio
